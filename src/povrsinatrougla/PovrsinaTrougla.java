@@ -21,6 +21,8 @@ public class PovrsinaTrougla {
     public static void main(String[] args) {
         double [] x_coordinates = {1,2,5};
         double [] y_coordinates = {0, 6, 10};
+        
+        printArea(x_coordinates, y_coordinates);
     }
     
 }
