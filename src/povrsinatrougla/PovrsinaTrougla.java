@@ -15,7 +15,8 @@ public class PovrsinaTrougla {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        double [] x_coordinates = {1,2,5};
+        double [] y_coordinates = {0, 6, 10};
     }
     
 }
