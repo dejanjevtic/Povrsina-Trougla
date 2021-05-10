@@ -23,6 +23,8 @@ public class PovrsinaTrougla {
         double [] y_coordinates = {0, 6, 10};
         /* rrro */
         printArea(x_coordinates, y_coordinates);
+        
+        System.out.println("Trougao");
     }
     
 }
